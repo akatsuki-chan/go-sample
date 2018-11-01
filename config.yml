@@ -1,0 +1,5 @@
+env: dev
+
+debug: true
+
+db: root:@/sample?parseTime=True

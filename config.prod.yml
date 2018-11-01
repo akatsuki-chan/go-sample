@@ -1,0 +1,5 @@
+env: prod
+
+debug: false
+
+db: user:pass@/sample?parseTime=True
